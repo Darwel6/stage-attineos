@@ -1,0 +1,113 @@
+nav {
+	color: blue; 
+	padding-top: 25px;
+	padding-bottom: 25px;
+	background-color: darkorange;
+	text-align: center;
+
+}
+
+h1 {
+	font-size:3em;
+	font-family:Georgia;
+	font-style:oblique;
+	text-shadow:2px 2px 4px black;
+	text-align: center;
+}
+
+h2 {
+	font-size:xx-large;
+}
+
+p {
+	font-size:x-large;
+	font-family:verdana;
+}
+
+body {
+	background-color:#f5f2e9;
+	border-left :orange solid 45px;
+}
+
+.page {
+	text-align:left;
+}
+
+a {
+	
+	font-family: arial;
+	color: white;
+	background-color:darkorange ; 
+	font-size:x-large;
+	text-align:center;
+	margin-right: 30px;
+	margin-left: 30px;
+	text-decoration-line:none; 
+
+}
+
+.homepage h1 {
+	color: red;
+	font-size: 7em
+}
+
+.homepage p {
+	text-align: center;
+}
+ 
+em {
+	color: blue
+}
+
+.videos {
+	text-align:center;
+}
+
+.col {
+	width: 30%;
+	display: inline-block;
+	margin-left: 230px;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: white;
+}
+
+.conteneur {
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.colonne {
+	width: 30%;
+	display: inline-block;
+	padding-right: 30px;
+}
+
+img {
+	max-width: 100%;
+}
+
+.colonne2 {
+	width: 60%;
+	display: inline-block;
+	padding-left: 0px;	
+}
+
+* {
+	box-sizing: border-box;
+}
+
+.copy {
+	text-align: center;
+	font-size: small;
+	background-color: darkorange;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color:white;
+}
+
+.presentation {
+	font-size: 2em;
+}
